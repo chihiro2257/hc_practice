@@ -1,11 +1,13 @@
 ## 課題のリンク
 
+ * https://github.com/chihiro2257/hc_practice.git
+
 ## やったこと
- - GitHubの「hc_practice」リポジトリにおいて「pr_template」ブランチを作成
- - Warpにて「.github」フォルダを作成
- - GitHubにてブランチを「pr_template」ブランチに切り替え、「Create new file」
- - 新しいファイル名の欄に、「.github/PULL_REQUEST_TEMPLATE.md」と指定
+ * .github/PULL_REQUEST_TEMPLATE.mdを作成した
 
 ##  動作確認方法
+ * 1、hc_practiceリポジトリからpr_templateブランチをローカルリポジトリに取り込む
+ * 2、GitHub上でPRを作成し、PULL_REQUEST_TEMPLATE.mdの内容が表示されることを確認する
 
 ## その他
+参考：PRの前段の内容ですが、誤ってGitHub上でpr_templateブランチを作成してしまったためローカルにクローンして作成しました。
